@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">গীতবিতান</string>
+    <string name="app_info">রবীন্দ্রসংগীত ও বিবিধ তথ্য</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_prefix_list_header">বর্ণানুক্রমিক তালিকা</string>
+    <string name="drawer_yearly_list_header">কালানুক্রমিক তালিকা</string>
+    <string name="drawer_stages_list_header">পর্যায়ক্রমিক তালিকা</string>
+</resources>
